@@ -5,6 +5,11 @@ public class Normalcode {
 		// display primitive and non primitive data types program
 		public static void main(String [] args)
 		{
+			//shubham is one of the best testing in this world
+			int a=5;
+			int b=10;
+			int c=a+b;
+			System.out.println(c);
 		boolean a=true; //primitive data type
 		char b='a';
 		short c=3;
